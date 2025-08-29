@@ -1,0 +1,6 @@
+@media (prefers-color-scheme: dark) {
+    .postlist .ablog-post-title a {
+	color: #eee;
+    }
+
+}

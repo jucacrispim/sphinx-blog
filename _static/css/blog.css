@@ -1,0 +1,41 @@
+.ablog-post-excerpt {
+  display: inline;
+}
+
+.ablog-post-expand {
+  display: inline;
+  margin-left: 0.5em;
+  white-space: nowrap;
+}
+
+.ablog-post-expand a {
+  font-style: italic;
+}
+
+.postlist li.ablog-post:not(:last-child)  {
+    margin-bottom: 25px;
+}
+
+.postlist li.ablog-post:last-child  {
+    margin-bottom: 10px;
+}
+
+.postlist .ablog-post-title a {
+    font-size: 1.2em;
+    line-height: 1.4em;
+    font-weight: bold;
+    color: #111;
+}
+
+.postlist .ablog-post-title {
+    margin-bottom: 10px;
+
+}
+
+.rst-footer-buttons {
+    display: none
+}
+
+.aphotoblog-last-photos {
+    margin-bottom: 10px;
+}
