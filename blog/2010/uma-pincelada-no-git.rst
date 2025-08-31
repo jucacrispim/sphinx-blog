@@ -1,5 +1,5 @@
 .. post:: Jan 5, 2010
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 Uma pincelada no GIT

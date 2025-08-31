@@ -2,7 +2,7 @@ Emacs é o editor mais legal
 ===========================
 
 .. post:: Oct 19, 2024
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

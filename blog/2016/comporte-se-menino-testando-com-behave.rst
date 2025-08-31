@@ -2,7 +2,7 @@ Comporte-se, menino! Testando suas aplicações com behave
 ========================================================
 
 .. post:: Nov 21, 2016
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 Boas, pessoal! Tudo tranquilo? Hoje vamos falar sobre como testar o

@@ -2,7 +2,7 @@ Ninguém tem obrigação de aceitar seu código
 ===========================================
 
 .. post:: Jul 6, 2023
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

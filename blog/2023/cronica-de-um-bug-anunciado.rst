@@ -2,7 +2,7 @@ Crônica de um bug anunciado
 ---------------------------
 
 .. post:: Apr 2, 2023
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

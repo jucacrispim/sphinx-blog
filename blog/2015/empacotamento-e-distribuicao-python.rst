@@ -2,7 +2,7 @@ Empacotamento e distribuição de projetos Python sem mistério
 ============================================================
 
 .. post:: Mar 6, 2015
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

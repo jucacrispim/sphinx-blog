@@ -2,7 +2,7 @@ Gera uma vez, gera outra!
 =========================
 
 .. post:: May 11, 2023
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

@@ -2,7 +2,7 @@ Que isso, Python?
 =================
 
 .. post:: Apr 23, 2023
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

@@ -2,7 +2,7 @@ Criando um daemon com Python
 ============================
 
 .. post:: Dec 03, 2013
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 Fala, pessoal, tranquilidade? Como de costume, fiquei muito tempo sem postar.

@@ -1,5 +1,5 @@
 .. post:: Aug 28, 2025
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

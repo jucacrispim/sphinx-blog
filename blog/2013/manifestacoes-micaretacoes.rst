@@ -2,7 +2,7 @@ Manifestações, micaretações, os manifestantes mais-amor e os nacionalistas
 ==========================================================================
 
 .. post:: Jul 20, 2013
-   :tags: etc
+   :category: etc
    :author: Juca Crispim
 
 

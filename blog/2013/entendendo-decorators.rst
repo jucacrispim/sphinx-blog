@@ -2,7 +2,7 @@
 ===============================
 
 .. post:: Dec 22, 2013
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

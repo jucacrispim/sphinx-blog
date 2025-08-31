@@ -1,5 +1,5 @@
 .. post:: Dec 21, 2009
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 Instalação e configuração do PostgreSQL no Debian

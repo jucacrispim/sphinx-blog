@@ -1,5 +1,5 @@
 .. post:: Aug 16, 2010
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

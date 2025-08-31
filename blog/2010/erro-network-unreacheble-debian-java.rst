@@ -1,5 +1,5 @@
 .. post:: Mar 4, 2010
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 Corrigir erro 'Network Unreachable' com Java no Debian

@@ -2,7 +2,7 @@ A beleza do Common Gateway Interface
 ====================================
 
 .. post:: Oct 2, 2024
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

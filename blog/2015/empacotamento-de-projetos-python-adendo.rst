@@ -2,7 +2,7 @@ Empacotamento e distribuição de projetos Python sem mistério - Adendo
 =====================================================================
 
 .. post:: Sep 15, 2015
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 Oi, pessoal. Hoje o post é rapidinho, só um adendo ao post anterior sobre

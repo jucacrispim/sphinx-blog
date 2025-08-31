@@ -2,7 +2,7 @@ Sobre a SSPL
 ============
 
 .. post:: May 22, 2023
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

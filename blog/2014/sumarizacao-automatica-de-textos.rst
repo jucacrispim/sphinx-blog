@@ -2,7 +2,7 @@ Sumarização automática de textos na prática: Extração baseada em grafos é
 ===================================================================================
 
 .. post:: Nov 10, 2014
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 

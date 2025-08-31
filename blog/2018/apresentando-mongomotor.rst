@@ -2,7 +2,7 @@ Apresentando: MongoMotor
 ========================
 
 .. post:: Aug 17, 2018
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 Oi, pessoal. Tudo certo?

@@ -2,7 +2,7 @@ Plugins in go (lang, não horse)
 ===============================
 
 .. post:: Jul 5, 2024
-   :tags: computisses
+   :category: computisses
    :author: Juca Crispim
 
 
