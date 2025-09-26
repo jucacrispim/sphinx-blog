@@ -11,9 +11,9 @@ estava indo ver uma exposição na caixa cultural. Mas o que eu mais lembro dess
 dia foi algo inesperado que vi na praça, não algo que tenha visto na exposição.
 
 Saí do metrô e estava achando até estranho que a praça estava menos podreira
-que o habitual. Tinha uns maluco lá, o de sempre, mas tava bem de boas a praça.
-Mais ou menos no meio da praça tinha uma rodinha com uns dois GCMs e uns maninho
-da praça. Chegando mais perto vi que eles estavam olhando pra um mano caído
+que o habitual. Tinha uns maluco lá, o de sempre, mas tava bem de boas.
+Mais ou menos no meio do caminho até a caixa cultural tinha uma rodinha com uns dois GCMs
+e uns maninho de lá. Chegando mais perto vi que eles estavam olhando pra um mano caído
 na praça. Um cara tinha acabado de morrer ali!
 
 O cara era um gordinho meio inchado de pinga, mas longe do estereótipo do nóia
