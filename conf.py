@@ -19,7 +19,7 @@ aphotoblog_page_size = 10
 aphotoblog_photo_path = 'fotos'
 parlante_url = 'https://comentarios.poraodojuca.dev'
 parlante_client_id = 'a8adcecd-3d8c-4f19-bda3-3842ef18c737'
-aphotoblog_post_summary = False
+aphotoblog_post_summary = True
 
 # bagaceira
 parlante_ping_snippet = f"""
