@@ -1,4 +1,4 @@
-.. post:: Dec 10, 2025
+.. post:: Dec 23, 2025
    :category: computisses
    :author: Juca Crispim
 
