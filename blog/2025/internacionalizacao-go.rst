@@ -118,7 +118,7 @@ Agora a gente pode refatorar o nosso código. Ficou assim:
 	   "bytes"
 	   "embed"
 	   "fmt"
-	   "html/template"
+	   "text/template"
 	   "os"
 	   "strings"
 	   "time"
