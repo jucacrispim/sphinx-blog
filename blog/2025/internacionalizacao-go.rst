@@ -585,7 +585,7 @@ O código completo ficou assim:
 	   "bytes"
 	   "embed"
 	   "fmt"
-	   "html/template"
+	   "text/template"
 	   "os"
 	   "strings"
 	   "time"
